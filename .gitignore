@@ -1,0 +1,4 @@
+.DS_Store
+*.jsonl
+__pycache__/
+*.pyc
